@@ -36,3 +36,4 @@ const notes = await getNotes();
 const note = await getNote(1);
 console.log('note', notes);
 console.log('creation',creation.insertId);
+
