@@ -1,7 +1,6 @@
 {
   "name": "mysql_traversy",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -11,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql": "^2.18.1"
-  }
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Numissa11/mysql_traversy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Numissa11/mysql_traversy/issues"
+  },
+  "homepage": "https://github.com/Numissa11/mysql_traversy#readme",
+  "description": ""
 }
